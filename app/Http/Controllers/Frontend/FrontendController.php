@@ -1958,7 +1958,7 @@ class FrontendController extends Controller
 
                 'heroButtonText' => 'Search Now',
 
-                'heroButtonLink' => route('contact'),
+                'heroButtonLink' => route('contact'), 
 
                 'heroImage' => asset('assets/images/services/service-banner.png'),
 
