@@ -2036,7 +2036,7 @@ class FrontendController extends Controller
                 |--------------------------------------------------------------------------
                 | Pricing
                 |--------------------------------------------------------------------------
-                */
+                */ 
 
                 'pricingTitle' => 'Clear Packages, Complete Protection',
 
